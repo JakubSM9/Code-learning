@@ -9,6 +9,6 @@ a = 'la la la la la la la la la la la la la la Teraz śpiewaj z nami la la la la
 # dzielenie zmiennej i zapisywanie jej jako nowa zmienna
 b = a.split()
 
-#wydrukowanie nowoutworzonej zmiennej
+# wydrukowanie nowoutworzonej zmiennej 
 for x in b[::1]:
     print(x)
