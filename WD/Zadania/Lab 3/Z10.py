@@ -8,3 +8,4 @@ for i in range (101):
 #dodanie nowej listy, która posiada tylko podzielne przez 4 liczby z wygenerowanych
 nowalista= [x for x in randomlist if x%4==0]
 print(nowalista)
+f = open("liczby.txt", "w")

@@ -1,4 +1,4 @@
-# Lab2.Z8
+ # Lab2.Z8
 # Napisz skrypt, który za pomocą pętli while pobiera 10 liczb, 
 # następnie dodaje do listy tylko parzyste liczby.
 

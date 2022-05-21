@@ -11,3 +11,4 @@ for x in lista[::1]:
 
 for x in list[::1]:     # Wydrukowywanie nowo utworzonej listy 
     print(x)
+
